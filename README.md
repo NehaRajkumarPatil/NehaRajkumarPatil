@@ -16,7 +16,7 @@ Dedicated second-year Computer Science and Engineering student with a foundation
 ---
 
 ## 🔥 Interests  
-- 👀 I’m interested in **Artificial Intelligence, Web Development, and Cloud Computing**  
+- 👀 I’m interested in **Artificial Intelligence, Web Development, Machine Learning and Cloud Computing**  
 - 🌱 I’m currently learning **Large Language Models (LLMs), LangChain, and Generative AI**  
 - 💞️ I’m looking to collaborate on **open-source projects and innovative software solutions**  
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/neha-rajkumar-patil-746406305/)**  
