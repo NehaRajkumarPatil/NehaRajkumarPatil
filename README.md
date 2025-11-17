@@ -11,7 +11,7 @@ Dedicated second-year Computer Science and Engineering student with a foundation
 🔗 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neha-rajkumar-patil-746406305/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/NehaRajkumarPatil)  
-📩 **Email:** np5254044@gmail.com  
+📩 **Email:** neharpatil71@gmail.com 
 
 ---
 
@@ -20,7 +20,7 @@ Dedicated second-year Computer Science and Engineering student with a foundation
 - 🌱 I’m currently learning **Large Language Models (LLMs), LangChain, Big Data, Data Analytics and Generative AI**  
 - 💞️ I’m looking to collaborate on **open-source projects and innovative software solutions**  
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/neha-rajkumar-patil-746406305/)**  
-- 📩 Email: **np5254044@gmail.com**  
+- 📩 Email: **neharpatil71@gmail.com**  
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: **I love solving coding challenges and exploring new tech trends!**  
 
