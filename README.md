@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @NehaRajkumarPatil  
 
 ## 🚀 About Me  
-Dedicated second-year Computer Science and Engineering student with a foundation in programming, scalable software development, and problem-solving.  
+Dedicated Computer Science and Engineering student with a foundation in programming, scalable software development, and problem-solving.  
 
 - 💻 Proficient in **Python, Java, C, C++, and JavaScript**  
 - 🔍 Experienced in **Data Structures, Algorithms, Object-Oriented Programming, and LLM**  
