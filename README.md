@@ -1,111 +1,106 @@
-<h1 align="center">Hi 👋, I'm Neha Rajkumar Patil</h1>
-<h3 align="center">Computer Science & Engineering | Full-Stack Developer | ML & Big Data Enthusiast</h3>
-
----
+# 👋 Hi, I’m **Neha Patil**
 
 ## 🚀 About Me  
-Dedicated CSE student passionate about designing scalable systems, exploring AI, and building impactful software.  
-I love working across **full-stack development, machine learning, LLMs, distributed systems, and data engineering**.
+I am a Computer Science and Engineering student passionate about **Software Engineering, Machine Learning, Big Data, Distributed Systems, and Full-Stack Web Development**.  
+I enjoy building scalable systems, AI-powered applications, and solving real-world engineering challenges.
 
-- 🔧 Skilled in **Python, Java, C, C++, JavaScript**
-- 🔍 Strong foundation in **DSA, OOP, Operating Systems, Computer Networks**
-- 🤖 Exploring **LLMs, Generative AI, LangChain**
-- 🧠 Working with **Big Data (Kafka, Spark), Data Engineering, Data Analytics**
-- 🌐 Building full-stack applications using **MERN**
-- 📚 Always learning & growing through real engineering projects
+- 💻 Strong in **Python, Java, C, C++, JavaScript**  
+- 🌐 Experienced in **Full-Stack Development (MERN), REST APIs, Distributed Systems**  
+- 🤖 Skilled in **Machine Learning, LLMs, LangChain, Data Analytics**  
+- 📡 Hands-on with **Big Data: Kafka, Spark, HDFS Simulation, Data Pipelines**  
+- 🗄️ Knowledge of **DBMS, SQL, Triggers, Stored Procedures, Transactions, Normalization**  
+- 🔧 Familiar with **CI/CD, Git, DevOps concepts, Linux tools**  
 
 📩 **Email:** neharpatil71@gmail.com  
-🔗 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neha-rajkumar-patil-746406305/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/NehaRajkumarPatil)
+🔗 **LinkedIn:** [Click Here](https://www.linkedin.com/in/neha-rajkumar-patil-746406305/)  
+🐙 **GitHub:** [Click Here](https://github.com/NehaRajkumarPatil)
 
 ---
 
-## 🔥 Interests  
-- 👀 Artificial Intelligence, Web Development, Big Data, Cloud, Data Engineering  
-- 🌱 Learning: **LLMs, LangChain, Generative AI, Kafka–Spark Pipelines, ML Ops**  
-- 🤝 Open-source collaboration  
-- 😄 Pronouns: **She/Her**
+# 🔥 What I’m Interested In  
+- Artificial Intelligence & LLMs  
+- Big Data Engineering & Distributed Systems  
+- Machine Learning & Deep Learning  
+- Backend Engineering  
+- Full-Stack Development (MERN)  
+- Data Analytics & Cloud-based Systems  
 
 ---
 
-## 🛠️ Languages & Tools  
-
-<p align="left">
-  
-<!-- C -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50"/>
-
-<!-- CSS -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50"/>
-
-<!-- Express -->
-<img src="https://skillicons.dev/icons?i=express" width="50"/>
-
-<!-- Git -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50"/>
-
-<!-- Hadoop -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="50"/>
-
-<!-- HTML -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50"/>
-
-<!-- Java -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50"/>
-
-<!-- JavaScript -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50"/>
-
-<!-- Kafka -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="50"/>
-
-<!-- Linux -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50"/>
-
-<!-- MATLAB -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="50"/>
-
-<!-- MongoDB -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50"/>
-
-<!-- MySQL -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50"/>
-
-<!-- Node.js -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50"/>
-
-<!-- Pandas -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50"/>
-
-<!-- Python -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50"/>
-
-<!-- PyTorch -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50"/>
-
-<!-- React -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50"/>
-
-<!-- Scikit-learn -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="sklearn" width="50"/>
-
-<!-- Tailwind -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="50"/>
-
-<!-- TensorFlow -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50"/>
-
-</p>
+# 🌱 Currently Learning  
+- Large Language Models (LLMs)  
+- LangChain, Generative AI  
+- Big Data Engineering (Kafka, Spark, Distributed Pipelines)  
+- Data Analytics  
+- Advanced Database Systems  
+- Software Engineering + DevOps Practices  
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
+# 🛠️ Skills & Technologies  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NehaRajkumarPatil&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaRajkumarPatil&layout=compact&theme=dark)
-
-</div>
+## **Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
+
+## **Full-Stack Development (MERN)**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+## **Machine Learning & AI**  
+![Python](https://img.shields.io/badge/ML-Python-blue?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-OpenAI-black?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-orange?style=for-the-badge)
+
+---
+
+## **Big Data & Distributed Systems**  
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+---
+
+## **Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## **Software Engineering & Tools**  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=azuredevops&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NehaRajkumarPatil&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaRajkumarPatil&layout=compact&theme=radical)
+
+---
+
