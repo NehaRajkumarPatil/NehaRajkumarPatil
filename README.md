@@ -1,7 +1,9 @@
 # 👋 Hi, I’m **Neha Patil**
 
 ## 🚀 About Me  
-I am a Computer Science and Engineering student passionate about **Software Engineering, Machine Learning, Big Data, Distributed Systems, and Full-Stack Web Development**.  
+Computer Science and Engineering undergraduate with strong foundations in full-stack development, databases, dis
+tributed systems, and AI-driven applications. Seeking software engineering or backend roles to design and build
+scalable, production-ready systems. 
 I enjoy building scalable systems, AI-powered applications, and solving real-world engineering challenges.
 
 - 💻 Strong in **Python, Java, C, C++, JavaScript**  
