@@ -1,75 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Neha%20Patil&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%2FML%20%7C%20Distributed%20Systems&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1025,50:2d1b4e,100:0D1117&height=210&section=header&text=Hi,%20I'm%20Neha%20Patil%20💜&fontSize=42&fontColor=F5C2E7&animation=fadeIn&fontAlignY=42&desc=Computer%20Science%20Student%20•%20Java%20Developer%20•%20AI/ML%20Enthusiast%20•%20Full%20Stack%20Developer&descAlignY=62&descAlign=50&descColor=CBA6F7" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=2800&pause=900&color=E0AAFF&center=true&vCenter=true&width=560&lines=Building+Intelligent+Systems;Always+Learning;Open+Source+Enthusiast;Hackathon+Explorer" alt="Typing SVG" />
+</a>
 
 </div>
+
+<br/>
 
 <table width="100%">
 <tr>
-<td width="60%" valign="middle">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B084F9&center=false&vCenter=true&width=500&lines=Hi+there%2C+I'm+Neha+%F0%9F%91%8B;CS+Undergrad+%7C+Full-Stack+Developer;Building+AI-driven+%26+scalable+systems;Currently+exploring+LLMs+%2B+LangChain;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<a href="https://www.linkedin.com/in/neha-rajkumar-patil-746406305/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:neharpatil71@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/NehaRajkumarPatil"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280"/>
-
-</td>
-</tr>
-</table>
+<td width="34%" valign="top">
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=NehaRajkumarPatil&style=for-the-badge&color=B084F9&label=Profile+Views)
+<!--
+  Swap the src below for your own circular profile photo —
+  upload it to your README repo and point this at the raw URL.
+-->
+<img src="https://avatars.githubusercontent.com/u/153276186?v=4" width="150" style="border-radius:50%;border:3px solid #CBA6F7;"/>
+
+### Neha Patil
+**she/her** 💜
+
+📍 Bengaluru, India
+🎓 PES University
+💻 B.Tech Computer Science
+🗓️ Class of 2027
+
+<br/>
+
+<a href="https://github.com/NehaRajkumarPatil"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=E0AAFF"/></a>
+<br/>
+<a href="https://www.linkedin.com/in/neha-rajkumar-patil-746406305/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=E0AAFF"/></a>
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-1a1025?style=for-the-badge&logo=vercel&logoColor=E0AAFF"/></a>
+<br/>
+<a href="mailto:neharpatil71@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=E0AAFF"/></a>
 
 </div>
 
-<br/>
-
-## 🚀 About Me
-
-Computer Science and Engineering undergraduate with strong foundations in full-stack development, databases, distributed systems, and AI-driven applications. Seeking software engineering or backend roles to design and build scalable, production-ready systems.
-
-- 💻 Strong in **Python, Java, C, C++, JavaScript**
-- 🌐 Experienced in **Full-Stack Development (MERN), REST APIs, Distributed Systems**
-- 🤖 Skilled in **Machine Learning, LLMs, LangChain, Data Analytics**
-- 📡 Hands-on with **Big Data: Kafka, Spark, HDFS Simulation, Data Pipelines**
-- 🗄️ Knowledge of **DBMS, SQL, Triggers, Stored Procedures, Transactions, Normalization**
-- 🔧 Familiar with **CI/CD, Git, DevOps concepts, Linux tools**
-
-<br/>
-
-## 🔥 What I'm Interested In
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-- 🧠 Artificial Intelligence & LLMs
-- 🗃️ Big Data Engineering & Distributed Systems
-- 📊 Machine Learning & Deep Learning
-
 </td>
-<td width="50%" valign="top">
+<td width="66%" valign="top">
 
-- ⚙️ Backend Engineering
-- 🌐 Full-Stack Development (MERN)
-- ☁️ Data Analytics & Cloud-based Systems
+<div>
+
+### 🌸 About Me
+
+|   |   |
+|---|---|
+| 🌸 | Computer Science student |
+| 💻 | Java Full Stack Developer |
+| 🤖 | AI & Machine Learning |
+| 📊 | Data Structures & Algorithms |
+| ☁️ | Learning Cloud & DevOps |
+| 🎯 | Interested in Software Engineering |
+| ☕ | Coffee + Music + Coding |
+
+</div>
 
 </td>
 </tr>
 </table>
-
-## 🌱 Currently Learning
-
-`Large Language Models (LLMs)` `LangChain` `Generative AI` `Kafka & Spark` `Advanced Database Systems` `DevOps Practices`
 
 <br/>
 
@@ -77,68 +71,29 @@ Computer Science and Engineering undergraduate with strong foundations in full-s
 
 <div align="center">
 
-Hover over the icons — they animate on their own 👇
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,react,nodejs,express,mongodb,tailwind,tensorflow,pytorch,sklearn,pandas,kafka,mysql,postgres,sqlite,git,github,linux&theme=dark" />
+**Full-Stack Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,spring&theme=dark" />
+
+<br/><br/>
+
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+
+<br/><br/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker&theme=dark" />
 
 </div>
-
-<br/>
-
-## 💼 Featured Projects
-
-<table>
-<tr>
-<td>🚂</td>
-<td><a href="https://github.com/NehaRajkumarPatil/Railway-Reservation-System"><b>Railway Reservation System</b></a></td>
-<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
-<td>⭐ 1</td>
-</tr>
-<tr>
-<td>🔐</td>
-<td><a href="https://github.com/NehaRajkumarPatil/CryptoChat_CN"><b>CryptoChat</b> — encrypted socket-based chat app</a></td>
-<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
-<td>⭐ 1</td>
-</tr>
-<tr>
-<td>📈</td>
-<td><a href="https://github.com/NehaRajkumarPatil/Stock-Market-Prediction--CodeCraft"><b>Stock Market Prediction</b></a></td>
-<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
-<td>⭐ 1</td>
-</tr>
-<tr>
-<td>🔥</td>
-<td><a href="https://github.com/NehaRajkumarPatil/Fire-Alarm-System-Arduino"><b>Arduino Fire Alarm System</b></a></td>
-<td><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/></td>
-<td>⭐ 1</td>
-</tr>
-<tr>
-<td>🚗</td>
-<td><a href="https://github.com/NehaRajkumarPatil/Carpooling-Management-System"><b>Carpooling Management System</b></a></td>
-<td><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></td>
-<td>⭐ 1</td>
-</tr>
-<tr>
-<td>🏓</td>
-<td><a href="https://github.com/NehaRajkumarPatil/pygame-pingpong"><b>Pygame Ping Pong</b> — with AI opponent</a></td>
-<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
-<td>⭐ 0</td>
-</tr>
-<tr>
-<td>🚛</td>
-<td><a href="https://github.com/NehaRajkumarPatil/Transportation-Management-System"><b>Transportation Management System</b></a></td>
-<td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></td>
-<td>⭐ 0</td>
-</tr>
-<tr>
-<td>🧠</td>
-<td><a href="https://github.com/NehaRajkumarPatil/Gen_AI"><b>Gen AI Experiments</b></a></td>
-<td><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></td>
-<td>⭐ 0</td>
-</tr>
-</table>
 
 <br/>
 
@@ -146,34 +101,115 @@ Hover over the icons — they animate on their own 👇
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NehaRajkumarPatil&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaRajkumarPatil&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NehaRajkumarPatil&theme=radical&hide_border=true&background=0D1117"/>
+<img src="https://img.shields.io/github/followers/NehaRajkumarPatil?style=for-the-badge&color=CBA6F7&labelColor=1a1025&logo=github"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1a1025&color=CBA6F7&label=Repositories&query=public_repos&url=https://api.github.com/users/NehaRajkumarPatil&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=NehaRajkumarPatil&style=for-the-badge&color=CBA6F7&labelColor=1a1025&label=Visitors"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NehaRajkumarPatil&theme=react-dark&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NehaRajkumarPatil&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F5C2E7&icon_color=CBA6F7&text_color=E0AAFF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaRajkumarPatil&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F5C2E7&text_color=E0AAFF"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NehaRajkumarPatil&theme=radical&hide_border=true&background=0D1117&ring=CBA6F7&fire=F5C2E7&currStreakLabel=E0AAFF"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NehaRajkumarPatil&theme=react-dark&hide_border=true&bg_color=0D1117&color=E0AAFF&line=CBA6F7&point=F5C2E7"/>
 
 </div>
 
 <br/>
 
-## ⏳ Weekly Coding Breakdown (WakaTime)
+## 💜 Featured Projects
 
-<!--START_SECTION:waka-->
-<!-- This section fills in automatically once the waka.yml workflow runs (see setup notes below) -->
-<!--END_SECTION:waka-->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ AI Behavioral Anomaly Detection
+Detects irregular user or system behavior patterns using machine learning, flagging deviations that may indicate security threats.
+
+`Python` `Machine Learning` `Cybersecurity`
+
+<a href="https://github.com/NehaRajkumarPatil"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=E0AAFF"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-CBA6F7?style=flat-square&logo=vercel&logoColor=1a1025"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Stock Market Prediction using LLM
+Combines traditional time-series forecasting with LLM-based sentiment analysis of financial news to predict stock trends.
+
+`Python` `LLM` `TensorFlow`
+
+<a href="https://github.com/NehaRajkumarPatil/Stock-Market-Prediction--CodeCraft"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=E0AAFF"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-CBA6F7?style=flat-square&logo=vercel&logoColor=1a1025"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎧 Multimodal Stress Detection
+Estimates stress levels by fusing signals from facial expression (computer vision) and voice tone (audio processing).
+
+`AI` `Computer Vision` `Audio Processing`
+
+<a href="https://github.com/NehaRajkumarPatil"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=E0AAFF"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-CBA6F7?style=flat-square&logo=vercel&logoColor=1a1025"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Expense Tracker
+A full-stack budgeting app for logging expenses, visualizing spending trends, and setting monthly limits.
+
+`React` `Node.js` `MongoDB`
+
+<a href="https://github.com/NehaRajkumarPatil"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=E0AAFF"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-CBA6F7?style=flat-square&logo=vercel&logoColor=1a1025"/></a>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🏆 Achievements
+
+- 🏆 Honeywell Hackathon
+- 🥇 ETCC Organizer
+- 🎖️ Java Full Stack Internship
+- ⭐ Open Source Contributor
+- 📚 LeetCode & DSA Journey
+
+<br/>
+
+## 🎯 Current Goals
+
+- [ ] Complete Striver A2Z DSA Sheet
+- [ ] Master System Design
+- [ ] Contribute to Open Source
+- [ ] Build AI Products
+- [ ] Crack Software Engineering Internships
+
+<br/>
+
+## 🌸 A Quiet Corner
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NehaRajkumarPatil/NehaRajkumarPatil/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!--
+  Placeholder for your cozy-room anime illustration.
+  Free, redistributable illustrations that match a purple/cyber palette:
+  https://storyset.com (search "coding", recolor to #CBA6F7 / #F5C2E7, download SVG,
+  add it to your README repo, then point this src at that file).
+-->
+<img src="https://storyset.com/illustration/coding/pana" width="380" alt="illustration placeholder — swap for your own coding-themed asset"/>
+
+<sub>swap this for a licensed illustration in your repo — see comment in the raw README</sub>
 
 </div>
 
@@ -181,13 +217,14 @@ Hover over the icons — they animate on their own 👇
 
 <div align="center">
 
-### 📩 Let's Connect
+### 💭 "Code. Create. Learn. Repeat."
 
-<a href="mailto:neharpatil71@gmail.com"><img src="https://img.shields.io/badge/-neharpatil71%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/neha-rajkumar-patil-746406305/"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-333?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/NehaRajkumarPatil"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=E0AAFF"/></a>
+<a href="https://www.linkedin.com/in/neha-rajkumar-patil-746406305/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=E0AAFF"/></a>
+<a href="mailto:neharpatil71@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=E0AAFF"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:2d1b4e,100:1a1025&height=100&section=footer" width="100%"/>
 
 </div>
